@@ -1,3 +1,6 @@
+THIS APP IS GOING TO RUN IN LOCALHOST:3001 and will try to access to a server in LOCALHOST:3001, please make sure that your server is running.
+
+
 Below you will find some information on how to perform common tasks.<br>
 
 ## Table of Contents
