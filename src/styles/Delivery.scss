@@ -1,0 +1,16 @@
+.Delivery{
+    height:100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f5f5dc91;
+    &__TimeContainer{
+        width:300px;
+        &__TimeTitle{
+            margin-bottom:30px;
+        }
+        &__Time{
+
+        }
+    }
+}

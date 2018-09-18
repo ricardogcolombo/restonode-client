@@ -1,0 +1,26 @@
+.HeaderMeals{
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:20px;
+    display:flex;
+    flex-grow:1;
+    background-color: #000000ab;
+    padding-bottom:20px;
+    &__Field{
+        margin:auto;
+        padding-top:10px;
+        &__Label{
+            color:white;
+            text-align:left;
+            margin-bottom:3px;
+        }
+        &__input{
+          height:20px;
+          width:300px;
+          font-size:1.3rem
+        }
+    }
+    .Button{
+        margin:auto;
+    }
+}

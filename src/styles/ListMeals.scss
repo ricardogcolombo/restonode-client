@@ -1,0 +1,28 @@
+.ListMeals{
+    width:auto;
+    height:auto;
+    padding-left:30px;
+    padding-right:30px;
+    display:flex;
+    flex-grow:1;
+    flex-flow: row wrap;
+    background-color: #f5f5dc91;
+    height:100%;
+
+    .Card{
+        width:220px;
+        height:230px;
+        background-color:white;
+        box-shadow: 2px 2px 3px #0000001c;
+        padding:5px;
+        margin:auto;
+        &__ImgContainer img{
+            width:200px;
+            height:130px;
+            margin-bottom:30px;
+        }
+        &__Description{
+            font-size:1.9rem;
+        }
+    }
+}
