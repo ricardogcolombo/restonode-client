@@ -2,7 +2,7 @@ language: node_js
 install:
   - npm install -g yarn
   - yarn install
-node_js: ""
+node_js:
   -"node"
   -"8"
 before_install:
